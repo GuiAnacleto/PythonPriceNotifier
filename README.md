@@ -7,23 +7,24 @@ Web Price Tracker is a dynamic Python project tailored for savvy online shoppers
 Web-Price-Tracker/
 │
 ├── src/
-│ ├── main.py
-│ ├── scraper/
-│ │ ├── init.py
-│ │ ├── web_scraper.py
-│ │
-│ ├── storage/
-│ │ ├── init.py
-│ │ ├── data_storage.py
+│   ├── main.py
+│   ├── scraper/
+│   │   ├── __init__.py
+│   │   ├── web_scraper.py
+│   │
+│   ├── storage/
+│   │   ├── __init__.py
+│   │   ├── data_storage.py
 │
 ├── tests/
-│ ├── test_web_scraper.py
-│ ├── test_data_storage.py
+│   ├── test_web_scraper.py
+│   ├── test_data_storage.py
 │
 ├── requirements.txt
 ├── .gitignore
 ├── LICENSE
 ├── README.md
+
 
 
 - **src:** Contains the main application code.
